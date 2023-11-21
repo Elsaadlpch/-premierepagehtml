@@ -1,0 +1,29 @@
+h1 { color: white;
+	font-family:  Helvetica;
+	font-size: 40px;
+	background-color: #000455;
+	background-height: 1000px; 
+	text-align: center; 
+ }
+
+
+ h2 { color: white;
+ 	font-family: helvetica;
+ 	font-size: 18px;
+ 	
+
+  }
+
+
+  body {
+
+  	background-color: #212E53;
+
+  }
+
+  img { 
+  	width: 100%;
+  	height: 300px;
+  	object-fit: cover;
+   }
+
